@@ -1,0 +1,6 @@
+{
+  "name": "HSE Exam Preparation Quiz Master",
+  "description": "Interactive Health, Safety, and Environment (HSE) exam preparation platform featuring all 120 official practice questions, instant answer verification, and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
